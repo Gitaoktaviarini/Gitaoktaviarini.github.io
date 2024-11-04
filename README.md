@@ -1,2 +1,3 @@
 # Gitaoktaviarini.github.io
-Latihan deploy menggunakan github pages
+I Gusti Ayu Putu Gita Oktaviani - 2101010081
+UTS Pemrograman Web
